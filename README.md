@@ -13,6 +13,8 @@ The input string can contain:
 
 ## Test Cases Covered
 
+## 🧾 Image of the final output after passing testcases
+![TestCase Result](https://github.com/itsme3030/Incubytes-Assignment/blob/main/Output/output.png) 
 ---
 
 ### 1. Empty Input Returns Zero
@@ -61,7 +63,4 @@ The input string can contain:
 - **Input:** `"//#\n3#-4#7#-6"`  
 - **Expected Output:**  `negative numbers not allowed <-4,-6>`
 
----
-
-## 🧾 Image of final Output after testcase passing
 ---
